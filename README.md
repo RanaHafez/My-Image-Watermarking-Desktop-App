@@ -1,4 +1,4 @@
-#Image Watermarking Desktop App
+# Image Watermarking Desktop App
 
 ### This is a desktop app that adds my logo to locally stored images on my PC.
 
